@@ -1,0 +1,15 @@
+{
+    "name": "colbycommunications/colby-rave-alert-sync",
+    "description": "Colby RAVE banner sync",
+    "keywords": [
+        "wordpress"
+    ],
+    "type": "wordpress-plugin",
+    "homepage": "https://github.com/colbycommunications/colby-rave-alert-sync",
+    "authors": [
+        {
+            "name": "Brandon Waltz",
+            "email": "brandon.waltz@colby.edu"
+        }
+    ]
+}

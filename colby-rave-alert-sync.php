@@ -157,7 +157,7 @@ function colby_do_rave_feed_check() {
         }
 
         update_field('alert_buttons', 1 ,'options');
-        update_field('alert_buttons_0_button', array( "title" => "Updates", "url" => "https://colby.lndo.site/college-updates/", "target" => "_blank" ) ,'options');
+        update_field('alert_buttons_0_button', array( "title" => "Updates", "url" => "https://www.colby.edu/college-updates/", "target" => "_blank" ) ,'options');
 		update_field( 'alert_type', 'emergency', 'option' ); // alert_type
 
 		$formatted_date = wp_date( get_option( 'date_format' ) . ' ' . get_option( 'time_format' ), $new_pub_date );
